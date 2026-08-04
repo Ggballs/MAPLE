@@ -1,4 +1,4 @@
-# MAPLE Experiments
+# MAPLE
 
 This repository contains the index and evaluation code for MAPLE benchmark: an expert-validated benchmark for multi-aspect full-paper retrieval, which contains 2,095 fine-grained queries derived from 210 recent machine learning papers. Each target paper is paired with multiple queries grounded in textual or multimodal evidence and covering different aspects of the paper, including motivation, method, and experimental findings. This many-query-to-one-paper design evaluates whether retrievers can consistently recover the same paper across a diverse set of aspect-focused queries.
 
@@ -6,12 +6,18 @@ This repository contains the index and evaluation code for MAPLE benchmark: an e
   <img src="./figure1-MAPLE.png" alt="MAPLE overview" width="50%" />
 </p>
 
+## Download Data
+
+```bash
+huggingface-cli download kai-02/MAPLE --repo-type dataset --local-dir data/MAPLE
+export MAPLE_DATA_ROOT=data/MAPLE
+```
 
 <!-- 
 Self-contained experiment runners for MAPLE. The code here builds local indexes, runs retrieval experiments, aggregates MAPLE-1Q scores, optionally generates screenshots from released PDF shards, and talks to embedding models through HTTP services. -->
 
 <!-- The experiment code does not write to Postgres and does not load embedding models directly. -->
-
+<!-- 
 ## Quickstart With Cached Indexes
 
 Use this path if you only want to reproduce scores and do not want to rebuild embeddings.
@@ -19,21 +25,8 @@ Use this path if you only want to reproduce scores and do not want to rebuild em
 ```bash
 conda env create -f envs/maple-evaluation.yml
 conda activate maple-evaluation
-```
 
-The cached experiment commands below can download the released cached indexes on demand with `--online-cached-index true`.
-If you prefer to prefetch the release yourself, run:
-
-```bash
-huggingface-cli download kai-02/MAPLE \
-  --repo-type dataset \
-  --local-dir data/MAPLE \
-  --include "cached_index/*" "queries/*" "MAPLE-1Q/*"
-```
-
-Then set:
-
-```bash
+huggingface-cli download kai-02/MAPLE --repo-type dataset --local-dir data/MAPLE
 export MAPLE_DATA_ROOT=data/MAPLE
 export MAPLE_CACHE_ROOT=data/MAPLE/cached_index
 ```
@@ -62,27 +55,13 @@ Aggregate MAPLE-1Q over completed multi-aspect result directories:
 python -m evaluations.maple_1q.experiment \
   --results-root outputs/experiments/multi_aspect \
   --output-dir outputs/experiments/maple_1q
-```
+``` -->
 
-Cached BM25 scoring requires the cached Lucene `index_dir`. Dense cached scoring only needs the released embedding files.
+<!-- Cached BM25 scoring requires the cached Lucene `index_dir`. Dense cached scoring only needs the released embedding files. -->
 
-## Data Layout
+<!-- ## Data Layout
 
-There are two different data paths:
-
-- Cached scoring needs only `cached_index/` plus query files. This is what `--online-cached-index true` downloads.
-- Rebuilding indexes needs local source data first. The `index` commands do not download `representations/`, `corpus/`, or `pdf_shards/` for you.
-
-For a full rebuild, download the source assets before running `index`:
-
-```bash
-huggingface-cli download kai-02/MAPLE \
-  --repo-type dataset \
-  --local-dir data/MAPLE \
-  --include "corpus/*" "pdf_shards/*" "queries/*" "representations/*"
-```
-
-The expected rebuild layout is:
+After downloading the HF release, the expected layout is:
 
 ```text
 data/MAPLE/
@@ -103,7 +82,18 @@ Common path overrides:
 export MAPLE_DATA_ROOT=data/MAPLE
 export MAPLE_PREPROCESSED_ROOT=data/MAPLE_preprocessed
 export MAPLE_CACHE_ROOT=data/MAPLE/cached_index
-```
+``` -->
+
+## Code Structure
+
+- `evaluations/multi_aspect/`: index and experiment for multi-aspect retrieval.
+- `evaluations/representation/`: index and experiment for paper-level and chunk-level representation retrieval.
+- `evaluations/maple_1q/`: MAPLE-1Q experiment for the one-query-to-one-paper setting.
+- `utils/`: JSONL I/O, metrics, BM25 wrapper, dense index files, chunking, cached-index loading, embedding policies, and PDF-to-screenshot helpers.
+- `retrievers/models/`: HTTP embedding model servers.
+- `retrievers/launch_script/`: embedding model service launchers.
+- `envs/`: conda environment files.
+
 
 ## Environments
 
@@ -124,16 +114,14 @@ conda activate maple-evaluation
 java -version
 javac -version
 ```
-
+<!-- 
 If `javac` is missing, install OpenJDK:
 
 ```bash
 conda install -c conda-forge openjdk
-```
+``` -->
 
-## Rebuild Indexes
-
-Before rebuilding, make sure `data/MAPLE/representations/...` exists for text indexes. For screenshot models, make sure `data/MAPLE/corpus/` and `data/MAPLE/pdf_shards/` exist; if screenshots are missing, the screenshot index path can generate them locally from those PDF shards.
+## Build Indexes
 
 Dense indexes require a live HTTP service. The recommended workflow is:
 
@@ -194,6 +182,7 @@ python -m evaluations.representation.index \
   --service-url http://127.0.0.1:18082/embed
 ```
 
+## Experiments
 Run experiments from local indexes:
 
 ```bash
@@ -207,6 +196,22 @@ python -m evaluations.representation.experiment \
   --service-url http://127.0.0.1:18082/embed \
   --output-dir outputs/experiments/representation/paper-fulltext-gritlm-7b
 ```
+
+Use the cached index from online hugginface data repository, if you only want to reproduce scores and do not want to rebuild embeddings.
+
+```bash
+export MAPLE_CACHE_ROOT=data/MAPLE/cached_index
+```
+
+Run one cached multi-aspect result:
+
+```bash
+python -m evaluations.multi_aspect.experiment \
+  fulltext-gritlm-7b \
+  --online-cached-index true \
+  --output-dir outputs/experiments/multi_aspect/fulltext-gritlm-7b
+```
+
 
 <!-- ## Tiny Smoke Test
 
@@ -280,15 +285,7 @@ python -m evaluations.representation.experiment \
 
 MAPLE-1Q reports one row per model with `nDCG@10` and `Recall@20`.
 
-## Repository Map
 
-- `evaluations/multi_aspect/`: index and experiment for multi-aspect retrieval.
-- `evaluations/representation/`: paper-level and chunk-level representation retrieval.
-- `evaluations/maple_1q/`: MAPLE-1Q aggregation over completed multi-aspect results.
-- `utils/`: JSONL I/O, metrics, BM25 wrapper, dense index files, chunking, cached-index loading, embedding policies, and PDF-to-screenshot helpers.
-- `retrievers/models/`: HTTP embedding client and FastAPI model servers.
-- `retrievers/launch_script/`: service launchers.
-- `envs/`: conda environment files.
 
 <!-- ## Troubleshooting
 
