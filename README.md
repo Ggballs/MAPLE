@@ -203,7 +203,7 @@ Use the cached index from online hugginface data repository, if you only want to
 export MAPLE_CACHE_ROOT=data/MAPLE/cached_index
 ```
 
-Run one cached multi-aspect result:
+Run one multi-aspect experiment with cached index:
 
 ```bash
 python -m evaluations.multi_aspect.experiment \
