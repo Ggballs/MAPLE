@@ -1,0 +1,1519 @@
+[
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0006__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0006",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there a method for measuring the critical errors that a dialogue system makes in its responses?",
+    "target_papers": [
+      "Chat-Oriented Dialogue Systems"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a method for measuring the critical errors that a dialogue system makes in its responses?\nTarget papers: Chat-Oriented Dialogue Systems",
+    "retrieval_content": "Query: Is there a method for measuring the critical errors that a dialogue system makes in its responses?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0009__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0009",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there a paper that links exposure bias to distillation?",
+    "target_papers": [
+      "A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that links exposure bias to distillation?\nTarget papers: A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training",
+    "retrieval_content": "Query: Is there a paper that links exposure bias to distillation?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0010__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0010",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there a paper that shows that language models' error distribution is different for unfamiliar entities that is not apparent when models are evaluated on familiar entities alone?",
+    "target_papers": [
+      "Factual or Contextual? Disentangling Error Types in Entity Description Generation"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that shows that language models' error distribution is different for unfamiliar entities that is not apparent when models are evaluated on familiar entities alone?\nTarget papers: Factual or Contextual? Disentangling Error Types in Entity Description Generation",
+    "retrieval_content": "Query: Is there a paper that shows that language models' error distribution is different for unfamiliar entities that is not apparent when models are evaluated on familiar entities alone?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0014__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0014",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?",
+    "target_papers": [
+      "Unified Demonstration Retriever for In-Context Learning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?\nTarget papers: Unified Demonstration Retriever for In-Context Learning",
+    "retrieval_content": "Query: Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0023__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0023",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there any paper that explores and annotates the effectiveness of using testimonials or anecdotes in discussions?",
+    "target_papers": [
+      "StoryARG: a corpus of narratives and personal experiences in argumentative texts"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that explores and annotates the effectiveness of using testimonials or anecdotes in discussions?\nTarget papers: StoryARG: a corpus of narratives and personal experiences in argumentative texts",
+    "retrieval_content": "Query: Is there any paper that explores and annotates the effectiveness of using testimonials or anecdotes in discussions?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0027__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0027",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there any paper that tries to investigate LLMs’ capabilities in solving elliptical constructions by using a test-dataset based on the psycolinguistic notion of Thematic Fit?",
+    "target_papers": [
+      "We Understand Elliptical Sentences, and Language Models Should Too: A New Dataset for Studying Ellipsis and its Interaction with Thematic Fit"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that tries to investigate LLMs’ capabilities in solving elliptical constructions by using a test-dataset based on the psycolinguistic notion of Thematic Fit?\nTarget papers: We Understand Elliptical Sentences, and Language Models Should Too: A New Dataset for Studying Ellipsis and its Interaction with Thematic Fit",
+    "retrieval_content": "Query: Is there any paper that tries to investigate LLMs’ capabilities in solving elliptical constructions by using a test-dataset based on the psycolinguistic notion of Thematic Fit?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0033__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0033",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there such a factuality evaluation dataset that can be used to evaluate the performance of fact-checking models on summaries generated by latest summarization models?",
+    "target_papers": [
+      "Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there such a factuality evaluation dataset that can be used to evaluate the performance of fact-checking models on summaries generated by latest summarization models?\nTarget papers: Understanding Factual Errors in Summarization: Errors, Summarizers, Datasets, Error Detectors",
+    "retrieval_content": "Query: Is there such a factuality evaluation dataset that can be used to evaluate the performance of fact-checking models on summaries generated by latest summarization models?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0034__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0034",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there such a reading comprehension dataset in understanding a snippet from a long story book, while it requires to integrate the necessary long history texts before the snippet to full understand it?",
+    "target_papers": [
+      "Personality Understanding of Fictional Characters during Book Reading"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there such a reading comprehension dataset in understanding a snippet from a long story book, while it requires to integrate the necessary long history texts before the snippet to full understand it?\nTarget papers: Personality Understanding of Fictional Characters during Book Reading",
+    "retrieval_content": "Query: Is there such a reading comprehension dataset in understanding a snippet from a long story book, while it requires to integrate the necessary long history texts before the snippet to full understand it?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0038__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0038",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "What paper compares humans' and language models' non-literal interpretations of utterances featuring phenomena like deceit, irony, and humor?",
+    "target_papers": [
+      "A fine-grained comparison of pragmatic language understanding in humans and language models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What paper compares humans' and language models' non-literal interpretations of utterances featuring phenomena like deceit, irony, and humor?\nTarget papers: A fine-grained comparison of pragmatic language understanding in humans and language models",
+    "retrieval_content": "Query: What paper compares humans' and language models' non-literal interpretations of utterances featuring phenomena like deceit, irony, and humor?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0050__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0050",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper first shows that it is possible to maintain high LLM reasoning performance with in-context examples that are absurdly wrong?",
+    "target_papers": [
+      "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first shows that it is possible to maintain high LLM reasoning performance with in-context examples that are absurdly wrong?\nTarget papers: Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters",
+    "retrieval_content": "Query: Which paper first shows that it is possible to maintain high LLM reasoning performance with in-context examples that are absurdly wrong?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0051__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0051",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper first shows that large language models can be prompted to act like professional annotators to evaluate text generation quality?",
+    "target_papers": [
+      "Can Large Language Models Be an Alternative to Human Evaluation?"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first shows that large language models can be prompted to act like professional annotators to evaluate text generation quality?\nTarget papers: Can Large Language Models Be an Alternative to Human Evaluation?",
+    "retrieval_content": "Query: Which paper first shows that large language models can be prompted to act like professional annotators to evaluate text generation quality?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0055__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0055",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?",
+    "target_papers": [
+      "Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?\nTarget papers: Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better",
+    "retrieval_content": "Query: Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0057__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0057",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?",
+    "target_papers": [
+      "Revisiting non-English Text Simplification: A Unified Multilingual Benchmark"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?\nTarget papers: Revisiting non-English Text Simplification: A Unified Multilingual Benchmark",
+    "retrieval_content": "Query: Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0059__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0059",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?",
+    "target_papers": [
+      "Explaining How Transformers Use Context to Build Predictions"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?\nTarget papers: Explaining How Transformers Use Context to Build Predictions",
+    "retrieval_content": "Query: Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0072__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0072",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which work discusses an analysis of source and target contributions to output generation based on local interpretation when machine translation models experience hallucinations?",
+    "target_papers": [
+      "Local Interpretation of Transformer Based on Linear Decomposition"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which work discusses an analysis of source and target contributions to output generation based on local interpretation when machine translation models experience hallucinations?\nTarget papers: Local Interpretation of Transformer Based on Linear Decomposition",
+    "retrieval_content": "Query: Which work discusses an analysis of source and target contributions to output generation based on local interpretation when machine translation models experience hallucinations?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0088__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0088",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "What are some evaluation benchmarks for LLM privacy at inference time, targeted towards model input and NOT the training data.",
+    "target_papers": [
+      "CAN LLMS KEEP A SECRET? TESTING PRIVACY IMPLICATIONS OF LANGUAGE MODELS VIA CONTEXTUAL INTEGRITY THEORY"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What are some evaluation benchmarks for LLM privacy at inference time, targeted towards model input and NOT the training data.\nTarget papers: CAN LLMS KEEP A SECRET? TESTING PRIVACY IMPLICATIONS OF LANGUAGE MODELS VIA CONTEXTUAL INTEGRITY THEORY",
+    "retrieval_content": "Query: What are some evaluation benchmarks for LLM privacy at inference time, targeted towards model input and NOT the training data."
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0094__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0094",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?",
+    "target_papers": [
+      "Teaching Arithmetic to Small Transformers"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?\nTarget papers: Teaching Arithmetic to Small Transformers",
+    "retrieval_content": "Query: What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0095__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0095",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "What paper investigated the effect of the relative position (closer or further away) of the most pertinent retrieved code snippets on repository-level code completion performance?",
+    "target_papers": [
+      "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What paper investigated the effect of the relative position (closer or further away) of the most pertinent retrieved code snippets on repository-level code completion performance?\nTarget papers: RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+    "retrieval_content": "Query: What paper investigated the effect of the relative position (closer or further away) of the most pertinent retrieved code snippets on repository-level code completion performance?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0101__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0101",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper first found that when transformers are trained to in-context learn function classes, they might exhibit generalization followed by memorization, in certain settings?",
+    "target_papers": [
+      "In-Context Learning through the Bayesian Prism"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first found that when transformers are trained to in-context learn function classes, they might exhibit generalization followed by memorization, in certain settings?\nTarget papers: In-Context Learning through the Bayesian Prism",
+    "retrieval_content": "Query: Which paper first found that when transformers are trained to in-context learn function classes, they might exhibit generalization followed by memorization, in certain settings?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0102__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0102",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?",
+    "target_papers": [
+      "Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?\nTarget papers: Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS",
+    "retrieval_content": "Query: Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0103__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0103",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper first proved that wide-enough transformer architectures trained with gradient methods on enough data would learn to solve relational reasoning tasks?",
+    "target_papers": [
+      "When can transformers reason with abstract symbols?"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first proved that wide-enough transformer architectures trained with gradient methods on enough data would learn to solve relational reasoning tasks?\nTarget papers: When can transformers reason with abstract symbols?",
+    "retrieval_content": "Query: Which paper first proved that wide-enough transformer architectures trained with gradient methods on enough data would learn to solve relational reasoning tasks?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0106__experiment_result",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0106",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Which paper found that using common character encodings and ciphers, or even just convincing the model that it is not communicating in natural language, can bypass the safety guardrails of large models?",
+    "target_papers": [
+      "GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper found that using common character encodings and ciphers, or even just convincing the model that it is not communicating in natural language, can bypass the safety guardrails of large models?\nTarget papers: GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER",
+    "retrieval_content": "Query: Which paper found that using common character encodings and ciphers, or even just convincing the model that it is not communicating in natural language, can bypass the safety guardrails of large models?"
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0001__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0001",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Give me papers which show that using a smaller dataset in large language model pre-training can result in better models than using bigger datasets.",
+    "target_papers": [
+      "When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale",
+      "How to Train Data-Efficient LLMs",
+      "Deduplicating Training Data Makes Language Models Better",
+      "AlpaGasus: Training A Better Alpaca with Fewer Data",
+      "Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes",
+      "LESS: Selecting Influential Data for Targeted Instruction Tuning",
+      "Automatic Document Selection for Efficient Encoder Pretraining",
+      "Farewell to aimless large-scale pretraining: Influential subset selection for language model",
+      "Babyllama-2: Ensemble-distilled models consistently outperform teachers with limited data."
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Give me papers which show that using a smaller dataset in large language model pre-training can result in better models than using bigger datasets.\nTarget papers: When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale; How to Train Data-Efficient LLMs; Deduplicating Training Data Makes Language Models Better; AlpaGasus: Training A Better Alpaca with Fewer Data; Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes; LESS: Selecting Influential Data for Targeted Instruction Tuning; Automatic Document Selection for Efficient Encoder Pretraining; Farewell to aimless large-scale pretraining: Influential subset selection for language model; Babyllama-2: Ensemble-distilled models consistently outperform teachers with limited data.",
+    "retrieval_content": "Query: Give me papers which show that using a smaller dataset in large language model pre-training can result in better models than using bigger datasets."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0002__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0002",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Give me papers that share some insights about how large language models gain in-context learning capability in the process of pre-training.",
+    "target_papers": [
+      "Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression",
+      "How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations",
+      "Data Distributional Properties Drive Emergent In-Context Learning in Transformers",
+      "Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models",
+      "Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers",
+      "In-context Pretraining: Language Modeling Beyond Document Boundaries",
+      "Pre-Training to Learn in Context",
+      "What Do Language Models Learn in Context? The Structured Task Hypothesis",
+      "Transformers learn in-context by gradient descent",
+      "In-context Learning and Induction Heads",
+      "Do pretrained Transformers Learn In-Context by Gradient Descent?",
+      "The mechanistic basis of data dependence and abrupt learning in an in-context classification task",
+      "Explaining Emergent In-Context Learning as Kernel Regression",
+      "How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?",
+      "Asymptotic theory of in-context learning by linear attention",
+      "A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks",
+      "Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape",
+      "An Explanation of In-context Learning as Implicit Bayesian Inference",
+      "What and how does in-context learning learn? bayesian model averaging, parameterization, and generalization.",
+      "Language Models \"\"Grok\"\" to Copy",
+      "Transformers as statisticians: Provable in-context learning with in-context algorithm selection",
+      "Understanding in-context learning via supportive pretraining data",
+      "Transformers generalize differently from information stored in context vs in weights.",
+      "Language models are few-shot learners",
+      "Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning",
+      "The transient nature of emergent in-context learning in transformers",
+      "The learnability of in-context learning",
+      "A theory of emergent in-context learning as implicit structure induction",
+      "Parallel Structures in Pre-training Data Yield In-Context Learning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Give me papers that share some insights about how large language models gain in-context learning capability in the process of pre-training.\nTarget papers: Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression; How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations; Data Distributional Properties Drive Emergent In-Context Learning in Transformers; Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models; Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers; In-context Pretraining: Language Modeling Beyond Document Boundaries; Pre-Training to Learn in Context; What Do Language Models Learn in Context? The Structured Task Hypothesis; Transformers learn in-context by gradient descent; In-context Learning and Induction Heads; Do pretrained Transformers Learn In-Context by Gradient Descent?; The mechanistic basis of data dependence and abrupt learning in an in-context classification task; Explaining Emergent In-Context Learning as Kernel Regression; How Do Nonlinear Transformers Learn and Generalize in In-Context Learning?; Asymptotic theory of in-context learning by linear attention; A Mechanism for Sample-Efficient In-Context Learning for Sparse Retrieval Tasks; Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape; An Explanation of In-context Learning as Implicit Bayesian Inference; What and how does in-context learning learn? bayesian model averaging, parameterization, and generalization.; Language Models \"\"Grok\"\" to Copy; Transformers as statisticians: Provable in-context learning with in-context algorithm selection; Understanding in-context learning via supportive pretraining data; Transformers generalize differently from information stored in context vs in weights.; Language models are few-shot learners; Investigating the Pre-Training Dynamics of In-Context Learning: Task Recognition vs. Task Learning; The transient nature of emergent in-context learning in transformers; The learnability of in-context learning; A theory of emergent in-context learning as implicit structure induction; Parallel Structures in Pre-training Data Yield In-Context Learning",
+    "retrieval_content": "Query: Give me papers that share some insights about how large language models gain in-context learning capability in the process of pre-training."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0007__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0007",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset.",
+    "target_papers": [
+      "AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models",
+      "GenDec: A robust generative Question-decomposition method for Multi-hop reasoning",
+      "Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering",
+      "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs",
+      "FireAct: Toward Language Agent Fine-tuning",
+      "MRKE: The Multi-hop Reasoning Evaluation of LLMs by Knowledge Edition",
+      "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+      "GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?",
+      "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+      "IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues",
+      "RAFT: Adapting Language Model to Domain Specific RAG",
+      "Recitation-Augmented Language Models",
+      "Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach",
+      "Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts",
+      "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models",
+      "ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models",
+      "Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process",
+      "Chain-of-Skills: A Configurable Model for Open-domain Question Answering",
+      "HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs",
+      "Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought",
+      "Few-shot reranking for multi-hop qa via language model prompting",
+      "Chatcot: Tool-augmented chain-of-thought reasoning on chat-based large language models",
+      "Answering questions by meta-reasoning over multiple chains of thought"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset.\nTarget papers: AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models; GenDec: A robust generative Question-decomposition method for Multi-hop reasoning; Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering; ReAct: Synergizing Reasoning and Acting in Language Models; LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs; FireAct: Toward Language Agent Fine-tuning; MRKE: The Multi-hop Reasoning Evaluation of LLMs by Knowledge Edition; When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models; GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?; Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions; IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues; RAFT: Adapting Language Model to Domain Specific RAG; Recitation-Augmented Language Models; Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach; Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts; Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models; ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models; Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process; Chain-of-Skills: A Configurable Model for Open-domain Question Answering; HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs; Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought; Few-shot reranking for multi-hop qa via language model prompting; Chatcot: Tool-augmented chain-of-thought reasoning on chat-based large language models; Answering questions by meta-reasoning over multiple chains of thought",
+    "retrieval_content": "Query: Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0011__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0011",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Is there any work that analyzes the scaling law of the multi-module models, such as video-text, image-text models?",
+    "target_papers": [
+      "Scaling Laws for Autoregressive Generative Modeling",
+      "Scaling Laws for Generative Mixed-Modal Language Models",
+      "Reproducible scaling laws for contrastive language-image learning",
+      "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+      "Scaling Up Vision-Language Pre-training for Image Captioning",
+      "Are Bigger Encoders Always Better in Vision Large Models?",
+      "EVA: Exploring the Limits of Masked Visual Representation Learning at Scale",
+      "PaLI: A Jointly-Scaled Multilingual Language-Image Model",
+      "Scaling Law Hypothesis for Multimodal Model",
+      "An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models",
+      "SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models",
+      "Multimodal contrastive learning with limoe: the language-image mixture of experts",
+      "Simple open-vocabulary object detection with vision transformers",
+      "Scaling language-image pre-training via masking",
+      "Scaling rectified flow transformers for high-resolution image synthesis"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any work that analyzes the scaling law of the multi-module models, such as video-text, image-text models?\nTarget papers: Scaling Laws for Autoregressive Generative Modeling; Scaling Laws for Generative Mixed-Modal Language Models; Reproducible scaling laws for contrastive language-image learning; Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model; Scaling Up Vision-Language Pre-training for Image Captioning; Are Bigger Encoders Always Better in Vision Large Models?; EVA: Exploring the Limits of Masked Visual Representation Learning at Scale; PaLI: A Jointly-Scaled Multilingual Language-Image Model; Scaling Law Hypothesis for Multimodal Model; An Empirical Study of Scaling Instruct-Tuned Large Multimodal Models; SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models; Multimodal contrastive learning with limoe: the language-image mixture of experts; Simple open-vocabulary object detection with vision transformers; Scaling language-image pre-training via masking; Scaling rectified flow transformers for high-resolution image synthesis",
+    "retrieval_content": "Query: Is there any work that analyzes the scaling law of the multi-module models, such as video-text, image-text models?"
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0016__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0016",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Provide papers claiming that reinforcement learning can negatively impact the performance of supervised fine-tuned LLMs.",
+    "target_papers": [
+      "Understanding the Effects of RLHF on LLM Generalisation and Diversity",
+      "Fundamental Limitations of Alignment in Large Language Models",
+      "Reward Collapse in Aligning Large Language Models",
+      "Discovering Language Model Behaviors with Model-Written Evaluations",
+      "Vanishing gradients in reinforcement finetuning of language models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Provide papers claiming that reinforcement learning can negatively impact the performance of supervised fine-tuned LLMs.\nTarget papers: Understanding the Effects of RLHF on LLM Generalisation and Diversity; Fundamental Limitations of Alignment in Large Language Models; Reward Collapse in Aligning Large Language Models; Discovering Language Model Behaviors with Model-Written Evaluations; Vanishing gradients in reinforcement finetuning of language models",
+    "retrieval_content": "Query: Provide papers claiming that reinforcement learning can negatively impact the performance of supervised fine-tuned LLMs."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0018__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0018",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Provide papers explaining why the in-context learning performance of LLMs cannot surpass that of supervised fine-tuned small language models in information extraction tasks, such as NER, RE, and EE.",
+    "target_papers": [
+      "Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again",
+      "When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks",
+      "Intent Detection and Entity Extraction from BioMedical Literature",
+      "MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks",
+      "Exploring the Feasibility of ChatGPT for Event Extraction",
+      "Guideline Learning for In-context Information Extraction",
+      "Pushing the Limits of ChatGPT on NLP Tasks",
+      "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!",
+      "Looking Right is Sometimes Right: Investigating the Capabilities of Decoder-only LLMs for Sequence Labeling"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Provide papers explaining why the in-context learning performance of LLMs cannot surpass that of supervised fine-tuned small language models in information extraction tasks, such as NER, RE, and EE.\nTarget papers: Thinking about GPT-3 In-Context Learning for Biomedical IE? Think Again; When does In-context Learning Fall Short and Why? A Study on Specification-Heavy Tasks; Intent Detection and Entity Extraction from BioMedical Literature; MetaIE: Distilling a Meta Model from LLM for All Kinds of Information Extraction Tasks; Exploring the Feasibility of ChatGPT for Event Extraction; Guideline Learning for In-context Information Extraction; Pushing the Limits of ChatGPT on NLP Tasks; Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!; Looking Right is Sometimes Right: Investigating the Capabilities of Decoder-only LLMs for Sequence Labeling",
+    "retrieval_content": "Query: Provide papers explaining why the in-context learning performance of LLMs cannot surpass that of supervised fine-tuned small language models in information extraction tasks, such as NER, RE, and EE."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0019__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0019",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Can LLMs detect LLM-generated text in a zero-shot manner? Do they perform better than supervised fine-tuned small classification models? Provide related papers.",
+    "target_papers": [
+      "MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark",
+      "Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore",
+      "Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness",
+      "DetectGPT-SC: Improving Detection of Text Generated by Large Language Models through Self-Consistency with Masked Predictions.",
+      "Fighting fire with fire: The dual role of llms in crafting and detecting elusive disinformation"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Can LLMs detect LLM-generated text in a zero-shot manner? Do they perform better than supervised fine-tuned small classification models? Provide related papers.\nTarget papers: MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark; Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore; Zero-Shot Detection of LLM-Generated Text using Token Cohesiveness; DetectGPT-SC: Improving Detection of Text Generated by Large Language Models through Self-Consistency with Masked Predictions.; Fighting fire with fire: The dual role of llms in crafting and detecting elusive disinformation",
+    "retrieval_content": "Query: Can LLMs detect LLM-generated text in a zero-shot manner? Do they perform better than supervised fine-tuned small classification models? Provide related papers."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0021__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0021",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Find papers supporting the claim that knowledgeable LLMs have sufficient inductive capacity to analyze the relationships between multiple papers and systematically write a survey on them.",
+    "target_papers": [
+      "System for systematic literature review using multiple AI agents: Concept and an empirical evaluation",
+      "Explaining Relationships Among Research Papers",
+      "Instruct Large Language Models to Generate Scientific Literature Survey Step by Step",
+      "vitaLITy 2: Reviewing Academic Literature Using Large Language Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Find papers supporting the claim that knowledgeable LLMs have sufficient inductive capacity to analyze the relationships between multiple papers and systematically write a survey on them.\nTarget papers: System for systematic literature review using multiple AI agents: Concept and an empirical evaluation; Explaining Relationships Among Research Papers; Instruct Large Language Models to Generate Scientific Literature Survey Step by Step; vitaLITy 2: Reviewing Academic Literature Using Large Language Models",
+    "retrieval_content": "Query: Find papers supporting the claim that knowledgeable LLMs have sufficient inductive capacity to analyze the relationships between multiple papers and systematically write a survey on them."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0022__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0022",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Search for papers related to large language models that demonstrate how the same prompt with different responses can improve the performance of the SFT model.",
+    "target_papers": [
+      "Curry-DPO: Enhancing Alignment using Curriculum Learning &amp;amp; Ranked Preferences",
+      "Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Search for papers related to large language models that demonstrate how the same prompt with different responses can improve the performance of the SFT model.\nTarget papers: Curry-DPO: Enhancing Alignment using Curriculum Learning &amp;amp; Ranked Preferences; Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts",
+    "retrieval_content": "Query: Search for papers related to large language models that demonstrate how the same prompt with different responses can improve the performance of the SFT model."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0029__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0029",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Show me code evaluation datasets with a mid-level hardness. It show be harder than HumanEval and MBPP, but easier than code_contests.",
+    "target_papers": [
+      "PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM",
+      "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution",
+      "NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Show me code evaluation datasets with a mid-level hardness. It show be harder than HumanEval and MBPP, but easier than code_contests.\nTarget papers: PythonSaga: Redefining the Benchmark to Evaluate Code Generating LLM; SWE-bench: Can Language Models Resolve Real-World GitHub Issues?; CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution; NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts",
+    "retrieval_content": "Query: Show me code evaluation datasets with a mid-level hardness. It show be harder than HumanEval and MBPP, but easier than code_contests."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0041__experiment_result",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0041",
+    "query_type": "IR",
+    "view_label": "experiment/result",
+    "query": "Could you list research that demonstrates the advantages of Quantization-Aware Training (QAT), which can enable the model to learn better representations for low-bit weights?.",
+    "target_papers": [
+      "Quantizing deep convolutional networks for efficient inference: A whitepaper",
+      "Low-Rank Quantization-Aware Training for LLMs",
+      "EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge",
+      "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+      "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Could you list research that demonstrates the advantages of Quantization-Aware Training (QAT), which can enable the model to learn better representations for low-bit weights?.\nTarget papers: Quantizing deep convolutional networks for efficient inference: A whitepaper; Low-Rank Quantization-Aware Training for LLMs; EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge; LLM-QAT: Data-Free Quantization Aware Training for Large Language Models; EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+    "retrieval_content": "Query: Could you list research that demonstrates the advantages of Quantization-Aware Training (QAT), which can enable the model to learn better representations for low-bit weights?."
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0001__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0001",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Are there any papers that build dense retrievers with mixture-of-experts architecture where each expert is responsible for different types of queries?",
+    "target_papers": [
+      "Chain-of-Skills: A Configurable Model for Open-Domain Question Answering"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Are there any papers that build dense retrievers with mixture-of-experts architecture where each expert is responsible for different types of queries?\nTarget papers: Chain-of-Skills: A Configurable Model for Open-Domain Question Answering",
+    "retrieval_content": "Query: Are there any papers that build dense retrievers with mixture-of-experts architecture where each expert is responsible for different types of queries?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0003__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0003",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "How to better attract readers to news articles by generating personalized headlines?",
+    "target_papers": [
+      "Generating User-Engaging News Headlines"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: How to better attract readers to news articles by generating personalized headlines?\nTarget papers: Generating User-Engaging News Headlines",
+    "retrieval_content": "Query: How to better attract readers to news articles by generating personalized headlines?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0005__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0005",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a decoder-only language model that does not use a tokenizer and operates on raw text bytes?",
+    "target_papers": [
+      "ByGPT5: End-to-End Style-conditioned Poetry Generation with Token-free Language Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a decoder-only language model that does not use a tokenizer and operates on raw text bytes?\nTarget papers: ByGPT5: End-to-End Style-conditioned Poetry Generation with Token-free Language Models",
+    "retrieval_content": "Query: Is there a decoder-only language model that does not use a tokenizer and operates on raw text bytes?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0006__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0006",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a method for measuring the critical errors that a dialogue system makes in its responses?",
+    "target_papers": [
+      "Chat-Oriented Dialogue Systems"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a method for measuring the critical errors that a dialogue system makes in its responses?\nTarget papers: Chat-Oriented Dialogue Systems",
+    "retrieval_content": "Query: Is there a method for measuring the critical errors that a dialogue system makes in its responses?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0007__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0007",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a method that measures the information provided in a (model generated) rationale beyond what the original context provided?",
+    "target_papers": [
+      "REV: Information-Theoretic Evaluation of Free-Text Rationales"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a method that measures the information provided in a (model generated) rationale beyond what the original context provided?\nTarget papers: REV: Information-Theoretic Evaluation of Free-Text Rationales",
+    "retrieval_content": "Query: Is there a method that measures the information provided in a (model generated) rationale beyond what the original context provided?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0011__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0011",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a paper that uses Explainable AI techniques to investigate how language models represent the expression of morality?",
+    "target_papers": [
+      "What does a Text Classifier Learn about Morality? An Explainable Method for Cross-Domain Comparison of Moral Rhetoric"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that uses Explainable AI techniques to investigate how language models represent the expression of morality?\nTarget papers: What does a Text Classifier Learn about Morality? An Explainable Method for Cross-Domain Comparison of Moral Rhetoric",
+    "retrieval_content": "Query: Is there a paper that uses Explainable AI techniques to investigate how language models represent the expression of morality?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0012__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0012",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a paper that uses similarity scores to check knowledge in diffusion models",
+    "target_papers": [
+      "Multilingual Conceptual Coverage in Text-to-Image Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that uses similarity scores to check knowledge in diffusion models\nTarget papers: Multilingual Conceptual Coverage in Text-to-Image Models",
+    "retrieval_content": "Query: Is there a paper that uses similarity scores to check knowledge in diffusion models"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0013__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0013",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a paper that utilizes the characteristics of human evolutionary knowledge to guide language models in generating scientific ideas?",
+    "target_papers": [
+      "Exploring and Verbalizing Academic Ideas by Concept Co-occurrence"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that utilizes the characteristics of human evolutionary knowledge to guide language models in generating scientific ideas?\nTarget papers: Exploring and Verbalizing Academic Ideas by Concept Co-occurrence",
+    "retrieval_content": "Query: Is there a paper that utilizes the characteristics of human evolutionary knowledge to guide language models in generating scientific ideas?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0014__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0014",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?",
+    "target_papers": [
+      "Unified Demonstration Retriever for In-Context Learning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?\nTarget papers: Unified Demonstration Retriever for In-Context Learning",
+    "retrieval_content": "Query: Is there a study that shows how to help the demonstration retriever better integrate feedback from LLMs?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0015__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0015",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a tool that can automatically segment speech and the corresponding text transcriptions, to obtain a finer grained alignment?",
+    "target_papers": [
+      "CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a tool that can automatically segment speech and the corresponding text transcriptions, to obtain a finer grained alignment?\nTarget papers: CMOT: Cross-modal Mixup via Optimal Transport for Speech Translation",
+    "retrieval_content": "Query: Is there a tool that can automatically segment speech and the corresponding text transcriptions, to obtain a finer grained alignment?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0018__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0018",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any paper leverages knowledge distillation of language models for textual out-of-distribution detection or anomaly detection?",
+    "target_papers": [
+      "Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper leverages knowledge distillation of language models for textual out-of-distribution detection or anomaly detection?\nTarget papers: Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text",
+    "retrieval_content": "Query: Is there any paper leverages knowledge distillation of language models for textual out-of-distribution detection or anomaly detection?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0019__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0019",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?",
+    "target_papers": [
+      "DISCO: Distilling Counterfactuals with Large Language Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?\nTarget papers: DISCO: Distilling Counterfactuals with Large Language Models",
+    "retrieval_content": "Query: Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0021__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0021",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?",
+    "target_papers": [
+      "CrossSum: Beyond English-Centric Cross-Lingual Summarization for 1,500+ Language Pairs"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?\nTarget papers: CrossSum: Beyond English-Centric Cross-Lingual Summarization for 1,500+ Language Pairs",
+    "retrieval_content": "Query: Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0024__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0024",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any paper that explores using only an encoder-only masked language model for open-ended long text generation (such as story generation)?",
+    "target_papers": [
+      "Open-ended Long Text Generation via Masked Language Modeling"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that explores using only an encoder-only masked language model for open-ended long text generation (such as story generation)?\nTarget papers: Open-ended Long Text Generation via Masked Language Modeling",
+    "retrieval_content": "Query: Is there any paper that explores using only an encoder-only masked language model for open-ended long text generation (such as story generation)?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0030__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0030",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any work that allows large numbers of model outputs to be encoded and compared by causal language models in a single forward pass?",
+    "target_papers": [
+      "EEL: Efficiently Encoding Lattices for Reranking"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any work that allows large numbers of model outputs to be encoded and compared by causal language models in a single forward pass?\nTarget papers: EEL: Efficiently Encoding Lattices for Reranking",
+    "retrieval_content": "Query: Is there any work that allows large numbers of model outputs to be encoded and compared by causal language models in a single forward pass?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0031__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0031",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there any works that explores how to achieve balance between representativeness and diversity in chosen samples for few-shot data selection?",
+    "target_papers": [
+      "Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any works that explores how to achieve balance between representativeness and diversity in chosen samples for few-shot data selection?\nTarget papers: Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach",
+    "retrieval_content": "Query: Is there any works that explores how to achieve balance between representativeness and diversity in chosen samples for few-shot data selection?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0032__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0032",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there commonsense reasoning dataset which generates diverse sentences to describe the relation between concepts?",
+    "target_papers": [
+      "DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there commonsense reasoning dataset which generates diverse sentences to describe the relation between concepts?\nTarget papers: DimonGen: Diversified Generative Commonsense Reasoning for Explaining Concept Relationships",
+    "retrieval_content": "Query: Is there commonsense reasoning dataset which generates diverse sentences to describe the relation between concepts?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0040__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0040",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which is the first multimodal model combining text and speech transformers trained without labelled text-speech pairs?",
+    "target_papers": [
+      "Introducing Semantics into Speech Encoders"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which is the first multimodal model combining text and speech transformers trained without labelled text-speech pairs?\nTarget papers: Introducing Semantics into Speech Encoders",
+    "retrieval_content": "Query: Which is the first multimodal model combining text and speech transformers trained without labelled text-speech pairs?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0042__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0042",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which numerical reasoning paper first published a dataset that considers different types of size of numbers and their representations in arithmetic questions?",
+    "target_papers": [
+      "FERMAT: An Alternative to Accuracy for Numerical Reasoning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which numerical reasoning paper first published a dataset that considers different types of size of numbers and their representations in arithmetic questions?\nTarget papers: FERMAT: An Alternative to Accuracy for Numerical Reasoning",
+    "retrieval_content": "Query: Which numerical reasoning paper first published a dataset that considers different types of size of numbers and their representations in arithmetic questions?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0049__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0049",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper first introduced document content as an intermediate generation target and utilized textual document identifiers in generative retrieval?",
+    "target_papers": [
+      "TOME: A Two-stage Approach for Model-based Retrieval"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first introduced document content as an intermediate generation target and utilized textual document identifiers in generative retrieval?\nTarget papers: TOME: A Two-stage Approach for Model-based Retrieval",
+    "retrieval_content": "Query: Which paper first introduced document content as an intermediate generation target and utilized textual document identifiers in generative retrieval?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0054__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0054",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper introduce a DRO (distribution robust optimization) like training objective for doing adversarial training without constructing adversarial samples.",
+    "target_papers": [
+      "DSRM: Boost Textual Adversarial Training with Distribution Shift Risk Minimization"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper introduce a DRO (distribution robust optimization) like training objective for doing adversarial training without constructing adversarial samples.\nTarget papers: DSRM: Boost Textual Adversarial Training with Distribution Shift Risk Minimization",
+    "retrieval_content": "Query: Which paper introduce a DRO (distribution robust optimization) like training objective for doing adversarial training without constructing adversarial samples."
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0055__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0055",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?",
+    "target_papers": [
+      "Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?\nTarget papers: Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better",
+    "retrieval_content": "Query: Which paper measured how well the source-translation contribution by the translation model can be used to detect its own hallucinations?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0057__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0057",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?",
+    "target_papers": [
+      "Revisiting non-English Text Simplification: A Unified Multilingual Benchmark"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?\nTarget papers: Revisiting non-English Text Simplification: A Unified Multilingual Benchmark",
+    "retrieval_content": "Query: Which paper produces a dataset for text simplification in over 12 languages and evaluates both finetuning and in context learning approaches to text simplification in those languages?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0059__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0059",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?",
+    "target_papers": [
+      "Explaining How Transformers Use Context to Build Predictions"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?\nTarget papers: Explaining How Transformers Use Context to Build Predictions",
+    "retrieval_content": "Query: Which paper proposed decomposing the logit update of each of the attention blocks’ inputs to analyze how the context influences the prediction?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0063__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0063",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident.",
+    "target_papers": [
+      "Post-Abstention: Towards Reliably Re-Attempting the Abstained Instances in QA"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident.\nTarget papers: Post-Abstention: Towards Reliably Re-Attempting the Abstained Instances in QA",
+    "retrieval_content": "Query: Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident."
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0065__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0065",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper used both automatically generated and manual templates with word tuples to adapt language models from one timestamp to another?",
+    "target_papers": [
+      "Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper used both automatically generated and manual templates with word tuples to adapt language models from one timestamp to another?\nTarget papers: Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation",
+    "retrieval_content": "Query: Which paper used both automatically generated and manual templates with word tuples to adapt language models from one timestamp to another?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0068__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0068",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which research paper leverages event structure information from Abstract Meaning Representation (AMR) graphs to aid in recognizing causal relations between events?",
+    "target_papers": [
+      "Semantic Structure Enhanced Event Causality Identification"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which research paper leverages event structure information from Abstract Meaning Representation (AMR) graphs to aid in recognizing causal relations between events?\nTarget papers: Semantic Structure Enhanced Event Causality Identification",
+    "retrieval_content": "Query: Which research paper leverages event structure information from Abstract Meaning Representation (AMR) graphs to aid in recognizing causal relations between events?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0074__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0074",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Are there any papers that construct convolutional networks which are equivariant with respect to non-compact/non-abelian Lie groups?",
+    "target_papers": [
+      "LIE GROUP DECOMPOSITIONS FOR EQUIVARIANT NEURAL NETWORKS"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Are there any papers that construct convolutional networks which are equivariant with respect to non-compact/non-abelian Lie groups?\nTarget papers: LIE GROUP DECOMPOSITIONS FOR EQUIVARIANT NEURAL NETWORKS",
+    "retrieval_content": "Query: Are there any papers that construct convolutional networks which are equivariant with respect to non-compact/non-abelian Lie groups?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0079__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0079",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Can you find a research paper that discusses using structured pruning techniques to scale down language models, where the original model being pruned has billions of parameters?",
+    "target_papers": [
+      "SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Can you find a research paper that discusses using structured pruning techniques to scale down language models, where the original model being pruned has billions of parameters?\nTarget papers: SHEARED LLAMA: ACCELERATING LANGUAGE MODEL PRE-TRAINING VIA STRUCTURED PRUNING",
+    "retrieval_content": "Query: Can you find a research paper that discusses using structured pruning techniques to scale down language models, where the original model being pruned has billions of parameters?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0081__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0081",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Is there a parameter-efficient fine-tuning method (PEFT) that allows adjusting the number of optimized parameters to any value, irrespective of the model's architecture or choice of the adapter?",
+    "target_papers": [
+      "NOLA: NETWORKS AS LINEAR COMBINATION OF LOW RANK RANDOM BASIS"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a parameter-efficient fine-tuning method (PEFT) that allows adjusting the number of optimized parameters to any value, irrespective of the model's architecture or choice of the adapter?\nTarget papers: NOLA: NETWORKS AS LINEAR COMBINATION OF LOW RANK RANDOM BASIS",
+    "retrieval_content": "Query: Is there a parameter-efficient fine-tuning method (PEFT) that allows adjusting the number of optimized parameters to any value, irrespective of the model's architecture or choice of the adapter?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0094__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0094",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?",
+    "target_papers": [
+      "Teaching Arithmetic to Small Transformers"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?\nTarget papers: Teaching Arithmetic to Small Transformers",
+    "retrieval_content": "Query: What paper first proposes that simply reversing the output can significantly enhance the sample efficiency and the performance of the arithmetic capability of a decoder-only Transformer model?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0100__method",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0100",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Which paper first derived online occupany estimation technique to get sqrt(T) bound for reinforcement learning in adversarial linear MDP?",
+    "target_papers": [
+      "Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first derived online occupany estimation technique to get sqrt(T) bound for reinforcement learning in adversarial linear MDP?\nTarget papers: Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback",
+    "retrieval_content": "Query: Which paper first derived online occupany estimation technique to get sqrt(T) bound for reinforcement learning in adversarial linear MDP?"
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0004__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0004",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "I am looking for research papers on the construction of multimodal foundation models that support both visual and audio inputs. These models should be pre-trained on large-scale datasets, including visual, audio, and audio-visual data. Please exclude survey papers.",
+    "target_papers": [
+      "MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound",
+      "InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding",
+      "VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text",
+      "Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models",
+      "VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset",
+      "VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset",
+      "VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning",
+      "CoAVT: A Cognition-Inspired Unified Audio-Visual-Text Pre-Training Model for Multimodal Processing",
+      "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+      "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+      "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+      "video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models",
+      "Gemini: A Family of Highly Capable Multimodal Models",
+      "Look, Listen and Learn",
+      "Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration",
+      "VITA: Towards Open-Source Interactive Omni Multimodal LLM",
+      "Video Understanding as Machine Translation",
+      "i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data",
+      "AVLnet: Learning Audio-Visual Language Representations from Instructional Videos",
+      "OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation",
+      "BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs",
+      "Connecting multi-modal contrastive representations",
+      "MIO: A Foundation Model on Multimodal Tokens",
+      "Unified-io 2: Scaling autoregressive multimodal models with vision, language, audio, and action",
+      "Imagebind: One embedding space to bind them all",
+      "Ofasys: A multi-modal multi-task learning system for building generalist models.",
+      "Audioclip: Extending clip to image, text and audio",
+      "Audio-Visual LLM for Video Understanding",
+      "Omnibind: Large-scale omni multimodal representation via binding spaces",
+      "Next-gpt: Any-to-any multimodal llm",
+      "Onellm: One framework to align all modalities with language",
+      "VideoLLaMA 2: Advancing spatial-temporal modeling and audio understanding in video-llms",
+      "Polyvit: Co-training vision transformers on images, videos and audio",
+      "i-code: An integrative and composable multimodal learning framework",
+      "CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation",
+      "One-peace: Exploring one general representation model toward unlimited modalities",
+      "Pandagpt: One model to instruction-follow them all.",
+      "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models",
+      "Freebind: Free lunch in unified multimodal space via knowledge fusion",
+      "Efficient self-supervised learning with contextualized target representations for vision, speech and language",
+      "Extending multi-modal contrastive representations",
+      "From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: I am looking for research papers on the construction of multimodal foundation models that support both visual and audio inputs. These models should be pre-trained on large-scale datasets, including visual, audio, and audio-visual data. Please exclude survey papers.\nTarget papers: MERLOT Reserve: Neural Script Knowledge through Vision and Language and Sound; InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding; VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text; Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models; VALOR: Vision-Audio-Language Omni-Perception Pretraining Model and Dataset; VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset; VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning; CoAVT: A Cognition-Inspired Unified Audio-Visual-Text Pre-Training Model for Multimodal Processing; Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding; VideoPoet: A Large Language Model for Zero-Shot Video Generation; LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment; video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models; Gemini: A Family of Highly Capable Multimodal Models; Look, Listen and Learn; Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration; VITA: Towards Open-Source Interactive Omni Multimodal LLM; Video Understanding as Machine Translation; i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data; AVLnet: Learning Audio-Visual Language Representations from Instructional Videos; OPT: Omni-Perception Pre-Trainer for Cross-Modal Understanding and Generation; BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs; Connecting multi-modal contrastive representations; MIO: A Foundation Model on Multimodal Tokens; Unified-io 2: Scaling autoregressive multimodal models with vision, language, audio, and action; Imagebind: One embedding space to bind them all; Ofasys: A multi-modal multi-task learning system for building generalist models.; Audioclip: Extending clip to image, text and audio; Audio-Visual LLM for Video Understanding; Omnibind: Large-scale omni multimodal representation via binding spaces; Next-gpt: Any-to-any multimodal llm; Onellm: One framework to align all modalities with language; VideoLLaMA 2: Advancing spatial-temporal modeling and audio understanding in video-llms; Polyvit: Co-training vision transformers on images, videos and audio; i-code: An integrative and composable multimodal learning framework; CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation; One-peace: Exploring one general representation model toward unlimited modalities; Pandagpt: One model to instruction-follow them all.; PG-Video-LLaVA: Pixel Grounding Large Video-Language Models; Freebind: Free lunch in unified multimodal space via knowledge fusion; Efficient self-supervised learning with contextualized target representations for vision, speech and language; Extending multi-modal contrastive representations; From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation",
+    "retrieval_content": "Query: I am looking for research papers on the construction of multimodal foundation models that support both visual and audio inputs. These models should be pre-trained on large-scale datasets, including visual, audio, and audio-visual data. Please exclude survey papers."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0006__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0006",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Papers that apply RLHF to address the hallucination problem in image and video description.",
+    "target_papers": [
+      "Aligning Large Multimodal Models with Factually Augmented RLHF",
+      "Aligning Modalities in Vision Large Language Models via Preference Fine-tuning",
+      "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling",
+      "Silkie: Preference distillation for large visual language models",
+      "Dress: Instructing large vision-language models to align and interact with humans via natural language feedback",
+      "Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback",
+      "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Papers that apply RLHF to address the hallucination problem in image and video description.\nTarget papers: Aligning Large Multimodal Models with Factually Augmented RLHF; Aligning Modalities in Vision Large Language Models via Preference Fine-tuning; ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling; Silkie: Preference distillation for large visual language models; Dress: Instructing large vision-language models to align and interact with humans via natural language feedback; Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback; RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback",
+    "retrieval_content": "Query: Papers that apply RLHF to address the hallucination problem in image and video description."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0007__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0007",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset.",
+    "target_papers": [
+      "AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models",
+      "GenDec: A robust generative Question-decomposition method for Multi-hop reasoning",
+      "Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering",
+      "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs",
+      "FireAct: Toward Language Agent Fine-tuning",
+      "MRKE: The Multi-hop Reasoning Evaluation of LLMs by Knowledge Edition",
+      "When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models",
+      "GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?",
+      "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+      "IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues",
+      "RAFT: Adapting Language Model to Domain Specific RAG",
+      "Recitation-Augmented Language Models",
+      "Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach",
+      "Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts",
+      "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models",
+      "ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models",
+      "Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process",
+      "Chain-of-Skills: A Configurable Model for Open-domain Question Answering",
+      "HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs",
+      "Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought",
+      "Few-shot reranking for multi-hop qa via language model prompting",
+      "Chatcot: Tool-augmented chain-of-thought reasoning on chat-based large language models",
+      "Answering questions by meta-reasoning over multiple chains of thought"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset.\nTarget papers: AutoPlan: Automatic Planning of Interactive Decision-Making Tasks With Large Language Models; GenDec: A robust generative Question-decomposition method for Multi-hop reasoning; Dr3: Ask Large Language Models Not to Give Off-Topic Answers in Open Domain Multi-Hop Question Answering; ReAct: Synergizing Reasoning and Acting in Language Models; LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs; FireAct: Toward Language Agent Fine-tuning; MRKE: The Multi-hop Reasoning Evaluation of LLMs by Knowledge Edition; When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models; GenSco: Can Question Decomposition based Passage Alignment improve Question Answering?; Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions; IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues; RAFT: Adapting Language Model to Domain Specific RAG; Recitation-Augmented Language Models; Retrieve, Summarize, Plan: Advancing Multi-hop Question Answering with an Iterative Approach; Learning to Decompose: Hypothetical Question Decomposition Based on Comparable Texts; Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models; ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models; Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process; Chain-of-Skills: A Configurable Model for Open-domain Question Answering; HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs; Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought; Few-shot reranking for multi-hop qa via language model prompting; Chatcot: Tool-augmented chain-of-thought reasoning on chat-based large language models; Answering questions by meta-reasoning over multiple chains of thought",
+    "retrieval_content": "Query: Papers that propose methods based on large language models and evaluate their performance through experiments on the HotPotQA dataset."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0015__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0015",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Find papers that use LLMs or LLM-based agents to automatically write surveys or summaries for multiple scholarly documents.",
+    "target_papers": [
+      "AutoSurvey: Large Language Models Can Automatically Write Surveys",
+      "Instruct Large Language Models to Generate Scientific Literature Survey Step by Step",
+      "LitLLM: A Toolkit for Scientific Literature Review",
+      "vitaLITy 2: Reviewing Academic Literature Using Large Language Models",
+      "Summarizing, Simplifying, and Synthesizing Medical Evidence Using GPT-3 (with Varying Success)",
+      "ChatCite: LLM Agent with Human Workflow Guidance for Comparative Literature Summary",
+      "System for systematic literature review using multiple AI agents: Concept and an empirical evaluation",
+      "Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications",
+      "Automating Research Synthesis with Domain-Specific Large Language Model Fine-Tuning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Find papers that use LLMs or LLM-based agents to automatically write surveys or summaries for multiple scholarly documents.\nTarget papers: AutoSurvey: Large Language Models Can Automatically Write Surveys; Instruct Large Language Models to Generate Scientific Literature Survey Step by Step; LitLLM: A Toolkit for Scientific Literature Review; vitaLITy 2: Reviewing Academic Literature Using Large Language Models; Summarizing, Simplifying, and Synthesizing Medical Evidence Using GPT-3 (with Varying Success); ChatCite: LLM Agent with Human Workflow Guidance for Comparative Literature Summary; System for systematic literature review using multiple AI agents: Concept and an empirical evaluation; Leveraging Long-Context Large Language Models for Multi-Document Understanding and Summarization in Enterprise Applications; Automating Research Synthesis with Domain-Specific Large Language Model Fine-Tuning",
+    "retrieval_content": "Query: Find papers that use LLMs or LLM-based agents to automatically write surveys or summaries for multiple scholarly documents."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0017__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0017",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Find papers on trigger-free document-level event extraction methods that do not use human-annotated triggers.",
+    "target_papers": [
+      "Trigger-free Event Detection via Derangement Reading Comprehension",
+      "COFFEE: A Contrastive Oracle-Free Framework for Event Extraction",
+      "Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction",
+      "Efficient Document-level Event Extraction via Pseudo-Trigger-aware Pruned Complete Graph",
+      "Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization",
+      "RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction",
+      "Document-Level Event Extraction via Human-Like Reading Process",
+      "Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Find papers on trigger-free document-level event extraction methods that do not use human-annotated triggers.\nTarget papers: Trigger-free Event Detection via Derangement Reading Comprehension; COFFEE: A Contrastive Oracle-Free Framework for Event Extraction; Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction; Efficient Document-level Event Extraction via Pseudo-Trigger-aware Pruned Complete Graph; Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization; RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction; Document-Level Event Extraction via Human-Like Reading Process; Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker",
+    "retrieval_content": "Query: Find papers on trigger-free document-level event extraction methods that do not use human-annotated triggers."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0040__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0040",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Help me search for the work related to the synthetic data of large language models. I want to know how to automatically generate large-scale, high-quality, diverse, difficult, and valuable long thought data for learning.",
+    "target_papers": [
+      "MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data",
+      "DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Help me search for the work related to the synthetic data of large language models. I want to know how to automatically generate large-scale, high-quality, diverse, difficult, and valuable long thought data for learning.\nTarget papers: MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data; DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data",
+    "retrieval_content": "Query: Help me search for the work related to the synthetic data of large language models. I want to know how to automatically generate large-scale, high-quality, diverse, difficult, and valuable long thought data for learning."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0045__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0045",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "What are the researches that have explored the application of Crypto-based Private Learning in privacy-preserving machine learning?.",
+    "target_papers": [
+      "CryptoDL: Deep Neural Networks over Encrypted Data",
+      "Privacy-Preserving Machine Learning with Fully Homomorphic Encryption for Deep Neural Network",
+      "Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference",
+      "Neural Network Training With Homomorphic Encryption",
+      "SecureBoost: A Lossless Federated Learning Framework",
+      "Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data",
+      "Towards the AlexNet Moment for Homomorphic Encryption: HCNN, theFirst Homomorphic CNN on Encrypted Data with GPUs",
+      "POSEIDON: Privacy-Preserving Federated Neural Network Learning",
+      "SoK: Privacy Preserving Machine Learning using Functional Encryption: Opportunities and Challenges",
+      "Efficient Privacy-Preserving KAN Inference Using Homomorphic Encryption",
+      "TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service",
+      "CryptoNN: Training Neural Networks over Encrypted Data",
+      "Blind Faith: Privacy-Preserving Machine Learning using Function Approximation",
+      "Privacy-Preserving Logistic Regression Training on Large Datasets",
+      "CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference",
+      "Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data",
+      "Privacy-Preserving Machine Learning: Methods, Challenges and Directions",
+      "Homomorphic Encryption and Federated Learning based Privacy-Preserving CNN Training: COVID-19 Detection Use-Case",
+      "A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption",
+      "Crypto-Nets: Neural Networks over Encrypted Data",
+      "SHE: A Fast and Accurate Deep Neural Network for Encrypted Data",
+      "Private and Reliable Neural Network Inference",
+      "Learning in the Dark: Privacy-Preserving Machine Learning using Function Approximation",
+      "Hawk: Accurate and Fast Privacy-Preserving Machine Learning Using Secure Lookup Table Computation",
+      "Partially Encrypted Machine Learning using Functional Encryption"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: What are the researches that have explored the application of Crypto-based Private Learning in privacy-preserving machine learning?.\nTarget papers: CryptoDL: Deep Neural Networks over Encrypted Data; Privacy-Preserving Machine Learning with Fully Homomorphic Encryption for Deep Neural Network; Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference; Neural Network Training With Homomorphic Encryption; SecureBoost: A Lossless Federated Learning Framework; Glyph: Fast and Accurately Training Deep Neural Networks on Encrypted Data; Towards the AlexNet Moment for Homomorphic Encryption: HCNN, theFirst Homomorphic CNN on Encrypted Data with GPUs; POSEIDON: Privacy-Preserving Federated Neural Network Learning; SoK: Privacy Preserving Machine Learning using Functional Encryption: Opportunities and Challenges; Efficient Privacy-Preserving KAN Inference Using Homomorphic Encryption; TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service; CryptoNN: Training Neural Networks over Encrypted Data; Blind Faith: Privacy-Preserving Machine Learning using Function Approximation; Privacy-Preserving Logistic Regression Training on Large Datasets; CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference; Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data; Privacy-Preserving Machine Learning: Methods, Challenges and Directions; Homomorphic Encryption and Federated Learning based Privacy-Preserving CNN Training: COVID-19 Detection Use-Case; A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption; Crypto-Nets: Neural Networks over Encrypted Data; SHE: A Fast and Accurate Deep Neural Network for Encrypted Data; Private and Reliable Neural Network Inference; Learning in the Dark: Privacy-Preserving Machine Learning using Function Approximation; Hawk: Accurate and Fast Privacy-Preserving Machine Learning Using Secure Lookup Table Computation; Partially Encrypted Machine Learning using Functional Encryption",
+    "retrieval_content": "Query: What are the researches that have explored the application of Crypto-based Private Learning in privacy-preserving machine learning?."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0050__method",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0050",
+    "query_type": "IR",
+    "view_label": "method",
+    "query": "Can you help me find research papers that explore the use of large vision-language models as agents to automatically play PC games?",
+    "target_papers": [
+      "Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case",
+      "Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study",
+      "Octopus: Embodied Vision-Language Programmer from Environmental Feedback",
+      "Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games",
+      "JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models",
+      "STEVE-1: A Generative Model for Text-to-Behavior in Minecraft",
+      "Will GPT-4 Run DOOM?",
+      "GROOT: Learning to Follow Instructions by Watching Gameplay Videos"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Can you help me find research papers that explore the use of large vision-language models as agents to automatically play PC games?\nTarget papers: Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case; Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study; Octopus: Embodied Vision-Language Programmer from Environmental Feedback; Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games; JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models; STEVE-1: A Generative Model for Text-to-Behavior in Minecraft; Will GPT-4 Run DOOM?; GROOT: Learning to Follow Instructions by Watching Gameplay Videos",
+    "retrieval_content": "Query: Can you help me find research papers that explore the use of large vision-language models as agents to automatically play PC games?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0003__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0003",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "How to better attract readers to news articles by generating personalized headlines?",
+    "target_papers": [
+      "Generating User-Engaging News Headlines"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: How to better attract readers to news articles by generating personalized headlines?\nTarget papers: Generating User-Engaging News Headlines",
+    "retrieval_content": "Query: How to better attract readers to news articles by generating personalized headlines?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0004__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0004",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "If one would like to train (or evaluate) a helpful assistant agent that can converse with humans while the humans traverse an environment, which work has the most suitable resource?",
+    "target_papers": [
+      "SIMMC-VR: A Task-oriented Multimodal Dialog Dataset with Situated and Immersive VR Streams"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: If one would like to train (or evaluate) a helpful assistant agent that can converse with humans while the humans traverse an environment, which work has the most suitable resource?\nTarget papers: SIMMC-VR: A Task-oriented Multimodal Dialog Dataset with Situated and Immersive VR Streams",
+    "retrieval_content": "Query: If one would like to train (or evaluate) a helpful assistant agent that can converse with humans while the humans traverse an environment, which work has the most suitable resource?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0008__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0008",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Is there a paper that connects the basic elements of storytelling with biased or imbalanced media reporting?",
+    "target_papers": [
+      "Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that connects the basic elements of storytelling with biased or imbalanced media reporting?\nTarget papers: Conflicts, Villains, Resolutions: Towards models of Narrative Media Framing",
+    "retrieval_content": "Query: Is there a paper that connects the basic elements of storytelling with biased or imbalanced media reporting?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0009__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0009",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Is there a paper that links exposure bias to distillation?",
+    "target_papers": [
+      "A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there a paper that links exposure bias to distillation?\nTarget papers: A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training",
+    "retrieval_content": "Query: Is there a paper that links exposure bias to distillation?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0017__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0017",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Is there any paper exploring real speakers and thus performing multimodal emotion recognition task?",
+    "target_papers": [
+      "A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper exploring real speakers and thus performing multimodal emotion recognition task?\nTarget papers: A Facial Expression-Aware Multimodal Multi-task Learning Framework for Emotion Recognition in Multi-party Conversations",
+    "retrieval_content": "Query: Is there any paper exploring real speakers and thus performing multimodal emotion recognition task?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0019__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0019",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?",
+    "target_papers": [
+      "DISCO: Distilling Counterfactuals with Large Language Models"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?\nTarget papers: DISCO: Distilling Counterfactuals with Large Language Models",
+    "retrieval_content": "Query: Is there any paper that applies symbolic distillation on black-box generalist language models to harvest high-quality counterfactual data for out-of-distribution generalization?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0021__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0021",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?",
+    "target_papers": [
+      "CrossSum: Beyond English-Centric Cross-Lingual Summarization for 1,500+ Language Pairs"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?\nTarget papers: CrossSum: Beyond English-Centric Cross-Lingual Summarization for 1,500+ Language Pairs",
+    "retrieval_content": "Query: Is there any paper that automatically creates a dataset for summarizing text from one language to another for a large collection of languages?"
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0063__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0063",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident.",
+    "target_papers": [
+      "Post-Abstention: Towards Reliably Re-Attempting the Abstained Instances in QA"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident.\nTarget papers: Post-Abstention: Towards Reliably Re-Attempting the Abstained Instances in QA",
+    "retrieval_content": "Query: Which paper studies the concept of enhancing the coverage of a selective prediction system by re-attempting the questions on which it was not sufficiently confident."
+  },
+  {
+    "example_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0102__motivation",
+    "query_id": "IR_golden_litsearch_human_queries_quality2_with_targets_0102",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?",
+    "target_papers": [
+      "Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?\nTarget papers: Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS",
+    "retrieval_content": "Query: Which paper first investigates the knowledge preferences of LLMs when there are conflicts between the context and the parametric memory?"
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0006__motivation",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0006",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Papers that apply RLHF to address the hallucination problem in image and video description.",
+    "target_papers": [
+      "Aligning Large Multimodal Models with Factually Augmented RLHF",
+      "Aligning Modalities in Vision Large Language Models via Preference Fine-tuning",
+      "ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling",
+      "Silkie: Preference distillation for large visual language models",
+      "Dress: Instructing large vision-language models to align and interact with humans via natural language feedback",
+      "Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback",
+      "RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Papers that apply RLHF to address the hallucination problem in image and video description.\nTarget papers: Aligning Large Multimodal Models with Factually Augmented RLHF; Aligning Modalities in Vision Large Language Models via Preference Fine-tuning; ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling; Silkie: Preference distillation for large visual language models; Dress: Instructing large vision-language models to align and interact with humans via natural language feedback; Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback; RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback",
+    "retrieval_content": "Query: Papers that apply RLHF to address the hallucination problem in image and video description."
+  },
+  {
+    "example_id": "IR_golden_pasa_realscholarquery_with_targets_0008__motivation",
+    "query_id": "IR_golden_pasa_realscholarquery_with_targets_0008",
+    "query_type": "IR",
+    "view_label": "motivation",
+    "query": "Show me research on the long video description. Here, long videos are defined as those with a duration of at least several minutes.",
+    "target_papers": [
+      "Video ReCap: Recursive Captioning of Hour-Long Videos",
+      "MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding",
+      "Streaming Long Video Understanding with Large Language Models",
+      "Learning To Recognize Procedural Activities with Distant Supervision",
+      "HowToCaption: Prompting LLMs to Transform Video Annotations at Scale",
+      "LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding",
+      "Temporal Alignment Networks for Long-term Video",
+      "Enhancing Long Video Understanding via Hierarchical Event-Based Memory",
+      "DrVideo: Document Retrieval Based Long Video Understanding",
+      "LVBench: An Extreme Long Video Understanding Benchmark",
+      "Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning",
+      "World Model on Million-Length Video And Language With Blockwise RingAttention",
+      "Koala: Key frame-conditioned long video-LLM",
+      "Dense-Captioning Events in Videos",
+      "MLLM as Video Narrator: Mitigating Modality Imbalance in Video Moment Retrieval",
+      "TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding",
+      "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding",
+      "LongVLM: Efficient Long Video Understanding via Large Language Models",
+      "MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding",
+      "Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input",
+      "LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos",
+      "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+      "LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs",
+      "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding",
+      "VideoAgent: Long-form Video Understanding with Large Language Model as Agent",
+      "Semi-parametric video-grounded text generation",
+      "Llama-vid: An image is worth 2 tokens in large language models.",
+      "A simple recipe for contrastively pre-training video-first encoders beyond 16 frames.",
+      "Learning Video Representations from Large Language Models",
+      "MM-VID: Advancing Video Understanding with GPT-4V(ision)",
+      "Synopses of movie narratives: a video-language dataset for story understanding",
+      "Mm-narrator: Narrating long-form videos with multimodal in-context learning.",
+      "Videoxum: Cross-modal visual and textural summarization of videos",
+      "Videoagent: A memory-augmented multimodal agent for video understanding.",
+      "Streaming dense video captioning"
+    ],
+    "answer_original_content": "",
+    "answer_tldr": "",
+    "human_view_note": "",
+    "indexing_content": "Query: Show me research on the long video description. Here, long videos are defined as those with a duration of at least several minutes.\nTarget papers: Video ReCap: Recursive Captioning of Hour-Long Videos; MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding; Streaming Long Video Understanding with Large Language Models; Learning To Recognize Procedural Activities with Distant Supervision; HowToCaption: Prompting LLMs to Transform Video Annotations at Scale; LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding; Temporal Alignment Networks for Long-term Video; Enhancing Long Video Understanding via Hierarchical Event-Based Memory; DrVideo: Document Retrieval Based Long Video Understanding; LVBench: An Extreme Long Video Understanding Benchmark; Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning; World Model on Million-Length Video And Language With Blockwise RingAttention; Koala: Key frame-conditioned long video-LLM; Dense-Captioning Events in Videos; MLLM as Video Narrator: Mitigating Modality Imbalance in Video Moment Retrieval; TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding; MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding; LongVLM: Efficient Long Video Understanding via Large Language Models; MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding; Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input; LifelongMemory: Leveraging LLMs for Answering Queries in Long-form Egocentric Videos; ShareGPT4Video: Improving Video Understanding and Generation with Better Captions; LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs; MovieChat: From Dense Token to Sparse Memory for Long Video Understanding; VideoAgent: Long-form Video Understanding with Large Language Model as Agent; Semi-parametric video-grounded text generation; Llama-vid: An image is worth 2 tokens in large language models.; A simple recipe for contrastively pre-training video-first encoders beyond 16 frames.; Learning Video Representations from Large Language Models; MM-VID: Advancing Video Understanding with GPT-4V(ision); Synopses of movie narratives: a video-language dataset for story understanding; Mm-narrator: Narrating long-form videos with multimodal in-context learning.; Videoxum: Cross-modal visual and textural summarization of videos; Videoagent: A memory-augmented multimodal agent for video understanding.; Streaming dense video captioning",
+    "retrieval_content": "Query: Show me research on the long video description. Here, long videos are defined as those with a duration of at least several minutes."
+  }
+]

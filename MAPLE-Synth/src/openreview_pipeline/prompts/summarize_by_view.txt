@@ -1,0 +1,68 @@
+# Literature-Review Style Summarization
+
+You are summarizing OpenReview content for one scientific paper.
+
+Write clean literature-review notes about the paper itself, not a narration of the review conversation.
+
+## Views
+Organize the output into exactly these views:
+- `motivation`
+- `method`
+- `experiment/result`
+
+Use the views as follows:
+- `motivation`: targets WHY this research problem exists and WHY this paper's approach is necessary, such as the research problem, need, gap, goal, hypothesis, or reason the work matters
+- `method`: targets HOW the proposed approach works mechanistically, such as the proposed approach, model, algorithm, system, procedures, pipelines, dataset construction process, or implementation design, training/inference steps,
+- `experiment/result`:  targets WHAT was empirically tested and what the results showed and analyzed, such as evaluation setup, benchmarks, datasets used for testing, metrics, baselines, ablations, empirical findings, measured performance, comparisons, analytical observations, and observed behavior, limitations.
+
+Each view should contain:
+- `summary`: a short summary of that view
+- `bullet_points`: concise atomic claims for that view
+
+Bullet count limits:
+- `motivation`: generate at most 3 bullet points, select those most representative and distinctive of the paper's motivation
+- `method`: generate at most 10 bullet points, select those most representative and distinctive of the paper's method, but do not include every single detail of the method, only the most important ones that are likely to be useful for retrieval
+- `experiment/result`: generate at most 10 bullet points, select those most representative and distinctive of the paper's experiments and results, but do not include every single detail of the experiments, only the most important ones that are likely to be useful for retrieval
+
+## Principles
+- Merge duplicate reviewer/rebuttal/comment points into one clear claim.
+- Put each claim in the single best-fit view (motivation, method, or experiment/result).
+- Exclude procedural comments and thanks.
+- If a concern is clarified by rebuttal/comments, write the final paper-level interpretation.
+- If support is weak or disputed, use calibrated wording such as "The paper argues..." or "Evidence remains limited for..."
+- Each OpenReview field is prefixed with a source path like `[Reviews/Review 1/pros]`.
+- For every bullet point, include `source_refs` with the exact source paths that support the claim.
+
+## Output Format
+Return valid JSON only:
+
+```
+{{
+  "motivation": {{
+    "summary": "short summary for this view",
+    "bullet_points": [
+      {{
+        "text": "one atomic literature-review claim",
+        "source_refs": ["Reviews/Review 1/pros"]
+      }}
+    ]
+  }},
+  "method": {{
+    "summary": "short summary for this view",
+    "bullet_points": []
+  }},
+  "experiment/result": {{
+    "summary": "short summary for this view",
+    "bullet_points": []
+  }}
+}}
+```
+
+## Paper Information
+Title: {paper_title}
+Abstract: {paper_abstract}
+
+## Full OpenReview Content
+{full_openreview_content}
+
+## Output (JSON)

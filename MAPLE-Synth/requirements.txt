@@ -1,0 +1,24 @@
+# Combined dependencies for Stages 1–5. Install a host-compatible PyTorch build first.
+openreview-py==2.5.0
+click>=8,<9
+tenacity>=8,<10
+openai>=2.43,<4
+pydantic>=2.13,<3
+PyYAML>=6,<7
+tqdm>=4.68,<5
+scholarly>=1.7.11,<2
+pypdf>=4,<7
+sentencepiece>=0.2,<1
+protobuf>=4.25,<7
+numpy>=2.2,<3
+pandas>=2.3,<3
+scipy>=1.15,<2
+matplotlib>=3.10,<4
+scikit-learn>=1.6,<2
+SQLAlchemy>=2,<3
+psycopg[binary]>=3.3,<4
+sentence-transformers>=5.6,<6
+transformers>=5.12,<6
+torch>=2.8,<3
+docling==2.131.0
+Pillow>=10,<13

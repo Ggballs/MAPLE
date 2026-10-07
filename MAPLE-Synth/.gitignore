@@ -1,0 +1,17 @@
+.env
+.env.*
+*.orig
+*.rej
+*.key
+*.pem
+configs/config.yaml
+outputs/
+models/
+# Track only the bundled, preprocessed IR ICL input; keep other local data ignored.
+data/*
+!data/icl/
+data/icl/*
+!data/icl/golden_retrieval_icl_examples_ir.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
