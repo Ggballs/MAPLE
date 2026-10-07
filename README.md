@@ -6,6 +6,12 @@ This repository contains the index and evaluation code for MAPLE benchmark: an e
   <img src="./figure1-MAPLE.png" alt="MAPLE overview" width="50%" />
 </p>
 
+## MAPLE-Synth
+
+[MAPLE-Synth](MAPLE-Synth/) is a self-contained pipeline for downloading OpenReview papers, filtering and summarizing them, generating multi-aspect queries, analyzing query quality, and mining hard-negative papers (Stages 0–5). It is separate from the retrieval indexing and evaluation code.
+
+See the [MAPLE-Synth setup guide](MAPLE-Synth/README.md) for installation, configuration, BGE-M3 download, ICL database preparation, and end-to-end run commands.
+
 ## Download Data
 
 ```bash
@@ -85,6 +91,8 @@ export MAPLE_CACHE_ROOT=data/MAPLE/cached_index
 ``` -->
 
 ## Code Structure
+
+- `MAPLE-Synth/`: self-contained query-generation and hard-negative-mining pipeline; see its [README](MAPLE-Synth/README.md).
 
 - `evaluations/multi_aspect/`: index and experiment for multi-aspect retrieval.
 - `evaluations/representation/`: index and experiment for paper-level and chunk-level representation retrieval.
